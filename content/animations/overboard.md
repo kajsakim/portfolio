@@ -15,7 +15,11 @@ The online animation classes at Uppsala University were about designing a charac
 
 **My game concept** was based on information I learned about Norway during the class: from 1978 to 1989 it was illegal to "introduce and sell skateboards or parts for skateboards, advertise skateboards or parts for skateboards (and) use skateboards." The main Character Nina lives in a 80's style retro-future beachside city running an underground skateshop. The shop gets looted by a rival skate group/store, and go out around the city to collect the stolen goods and defeat the rival group. The game concept is a 2D side-scrolling platformer with some skateboard related minigames dispersed throughout. The animation is the first part of the animated introduction to the playable character, the setting and the plot.
 
-(insert embedded video here)
+<div id="resizable-iframe" style="max-width: 720px; margin: 0px auto 3em auto;">
+    <div id="iframe-container" style="position: relative; padding-bottom: 56.25%; height: 0px;">
+        <iframe style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" src="https://www.youtube.com/embed/-QwNjTnI4Ug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+</div>
 
 **character art**
 

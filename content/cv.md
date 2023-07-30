@@ -29,7 +29,7 @@ banner = true
 </div>
 <div style="float:left;padding:0px;width:33%">
 
-#### skills
+#### Skills
 
 - good communication
 - works well individually & in groups
