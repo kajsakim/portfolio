@@ -1,1 +1,4 @@
 /* your styles go here */
+.box-masonry .box-masonry-hover-text-header {
+    pointer-events: none;
+}
