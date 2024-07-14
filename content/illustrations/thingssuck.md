@@ -5,7 +5,7 @@ showonlyimage = true
 nolink = false
 title = "Things Suck Comic"
 date = 2023-05-03T19:12:04+02:00
-weight = 4
+weight = 3
 +++
 
 Short comic about covid-19 for application to Hyper Island
