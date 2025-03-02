@@ -43,6 +43,7 @@ banner = true
 
 ## Education
 
+- **2024, Online**: School of Motion certificate in motion design using After Effects
 - **2022-2023, University of Uppsala**: Courses in 2D Animation with focus on cutscenes for video games
 - **2017-2020, University of Gothenburg**: BFA Design from HDK-Valand, focus on illustration and animation
 - **2019, Tama Art University**: Exchange semester to Tokyo, focus on animation and illustration
