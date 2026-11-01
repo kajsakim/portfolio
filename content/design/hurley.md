@@ -1,7 +1,7 @@
 +++
 draft = false
 image = "thumbs/hurley.jpg"
-showonlyimage = true
+showonlyimage = false
 nolink = false
 title = "Hurley Graphics"
 date = "2023-04-10T19:48:21+02:00"

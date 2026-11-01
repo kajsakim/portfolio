@@ -1,7 +1,7 @@
 +++
 draft = false
 image = "thumbs/plantcover.jpg"
-showonlyimage = true
+showonlyimage = false
 nolink = false
 title = "Plant zine"
 date = 2023-06-03T18:00:18+02:00

@@ -14,6 +14,10 @@ weight = 3
 
 Every year for over 10 years people have participated in an art trading event called Art Fight. Teams are made, and the team to make the most trades with the opposing team "wins" the fight. I joined in for the first time in 2023, and thought it was a lot of fun to try drawing lots of characters I may not otherwise have drawn. most of these were drawn on stream and finished in 1 or two sessions, 3-6 hours total.
 
+![character Lorde](/illustration/artfight/lorde-af2.png)
+
+![character Nameless](/illustration/artfight/nameless-portfolio.png)
+
 ![attack on dreadfort](/illustration/artfight/dreadfort-attack.png)
 
 ![character citrus](/illustration/artfight/aimz-citrus.png)

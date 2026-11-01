@@ -1,7 +1,7 @@
 +++
 draft = false
 image = "thumbs/acnh_info.png"
-showonlyimage = true
+showonlyimage = false
 nolink = false
 title = "Island Statistics"
 date = 2023-04-10T19:50:16+02:00

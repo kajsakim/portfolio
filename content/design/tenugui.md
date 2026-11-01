@@ -1,7 +1,7 @@
 +++
 draft = false
 image = "thumbs/tenugui.jpg"
-showonlyimage = true
+showonlyimage = false
 nolink = false
 title = "Tenugui"
 date = 2023-04-10T19:50:12+02:00

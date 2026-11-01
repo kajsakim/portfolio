@@ -14,6 +14,7 @@ Hello! My name is Kim Karlsson, and I am an artist and animator based in Norway.
 
 Here's where you can look at some of my projects:
 
+- [Games](/games)
 - [Animation](/animations)
 - [Illustration](/illustrations)
 - [Design](/design)

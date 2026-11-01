@@ -15,7 +15,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "sea"
   description = "portfolio page of kajsakim"
-  copyright = "&copy; 2023 The Panini Press"
+  copyright = "&copy; 2026 Kim Karlson"
   sidebarAbout = [
     "Portfolio page, art and design",
     
@@ -50,10 +50,9 @@ googleAnalytics = ""
   url = "home/"
   home = true 
 
- # [[params.navlinks]]
- # name = "All projects"
- # url = "portfolio/"
- # home = true
+  [[params.navlinks]]
+  name = "Games"
+  url = "games/"
 
   [[params.navlinks]]
   name = "Animation"
@@ -68,7 +67,6 @@ googleAnalytics = ""
   url = "design/"
 
 
-
   [[params.navlinks]]
   name = "Get in touch"
   url = "contact/"
@@ -76,7 +74,7 @@ googleAnalytics = ""
   [params.social]
   email         = "hello@kajsa.kim"
   mastodon      = "https://sunny.garden/@kajsakim"
-  instagram     = "https://instagram.com/kajsakim"
+  #instagram     = "https://instagram.com/kajsakim"
   #illcentr      = "lenke"
   #kofi          = "lenke"
 

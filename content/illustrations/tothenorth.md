@@ -1,7 +1,7 @@
 +++
 draft = false
 image = "thumbs/ttncover.jpg"
-showonlyimage = true
+showonlyimage = false
 nolink = false
 title = "To The North"
 date = 2023-05-03T19:23:41+02:00

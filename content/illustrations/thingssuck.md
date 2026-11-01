@@ -1,7 +1,7 @@
 +++
 draft = false
 image = "thumbs/tscover.jpg"
-showonlyimage = true
+showonlyimage = false
 nolink = false
 title = "Things Suck Comic"
 date = 2023-05-03T19:12:04+02:00
