@@ -5,7 +5,7 @@ showonlyimage = false
 nolink = false
 title = "Plant zine"
 date = 2023-06-03T18:00:18+02:00
-weight = 4
+weight = 2
 +++
 
 a fanzine style project from HDK

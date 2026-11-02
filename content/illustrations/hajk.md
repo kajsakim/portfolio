@@ -5,7 +5,7 @@ showonlyimage = false
 nolink = false
 title = "Hajk"
 date = 2023-07-29T16:09:41+02:00
-weight = 4
+weight = 2
 +++
 
 outdoors rental service group project

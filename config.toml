@@ -15,7 +15,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "sea"
   description = "portfolio page of kajsakim"
-  copyright = "&copy; 2026 Kim Karlson"
+  copyright = "&copy; 2026 Kim Karlsson"
   sidebarAbout = [
     "Portfolio page, art and design",
     

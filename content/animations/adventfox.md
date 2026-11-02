@@ -5,7 +5,7 @@ showonlyimage = true
 nolink = true
 title = "Advent foxes"
 date = 2023-05-01T18:53:49+02:00
-weight = 3
+weight = 2
 +++
 
 first advent animation

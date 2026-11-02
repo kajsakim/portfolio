@@ -5,7 +5,7 @@ showonlyimage = false
 nolink = false
 title = "The Wallpaper Project"
 date = 2023-05-01T23:08:54+02:00
-weight = 4
+weight = 2
 +++
 
 Bachelor's project from HDK-Valand

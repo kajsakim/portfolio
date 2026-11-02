@@ -5,7 +5,7 @@ showonlyimage = true
 nolink = false
 title = "Room"
 date = 2023-07-29T15:49:44+02:00
-weight = 4
+weight = 5
 +++
 
 cel-style illustration of my old bedroom

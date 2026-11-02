@@ -5,7 +5,7 @@ showonlyimage = true
 nolink = false
 title = "Art Fight"
 date = 2026-11-01T21:28:27+01:00
-weight = 4
+weight = 5
 +++
 
 

@@ -5,7 +5,7 @@ showonlyimage = false
 nolink = false
 title = "To The North"
 date = 2023-05-03T19:23:41+02:00
-weight = 4
+weight = 3
 +++
 
 Final Project from Folkuniversitets Art College
