@@ -25,4 +25,3 @@ You can see my **[CV](/cv)** here, and my showreel from before starting game dev
     </div>
 </div>
 
-[RedThread](/RedThread)
