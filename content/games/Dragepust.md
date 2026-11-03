@@ -30,9 +30,9 @@ The game is a short demo of a postion-making game, based on story and worldbuild
 
 ### Excerpt book pages
 
-![ingredient book intro page](/games/Dragepust/book-s1.png)
+![example book pages](/games/Dragepust/book-s1.png)
 
-![example ingredient page](/games/Dragepust/book-s2.png)
+![example ingredient pages](/games/Dragepust/book-s2.png)
 
 ### Level design, sketches
 

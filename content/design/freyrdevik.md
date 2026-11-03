@@ -5,7 +5,7 @@ showonlyimage = false
 nolink = false
 title = "Freyr & Devik packaging"
 date = 2026-11-01T23:28:20+01:00
-weight = 4
+weight = 2
 +++
 
 Assorted packaging design for Freyr & Devik
