@@ -11,6 +11,6 @@ weight = 4
 
 <!--more-->
 
-as a side project I decided to create a statistics page about my island on Animal Crossing, trying to mimic the graphic style of the game in Adobe Illustrator. The only things I didn't make are the actual villager's headshots, as well as the game title image.
+This was an excercise in both trying to visualize my Animal Crossing island in a bit of a humorous way, and holding myself to Animal Crossing's visual style. The only things I didn't make are the actual villager's headshots, as well as the game title image.
 
 ![Island statistics](/design/animalcrossing/acnh_info_border.png)

@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 image = "/animation/nolink/pattern.gif"
 showonlyimage = true
 nolink = true

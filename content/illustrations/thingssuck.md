@@ -13,7 +13,7 @@ Short comic about covid-19 for application to Hyper Island
 <!--more-->
 
 When applying to Hyper Island we were tasked with creating a project that was based on one of the UN's sustainable development goals. Taking into consideration how everything was at the time, I chose  goal #11 of the sustainable development goals: 
-Make cities and human settlements inclusive, safe, resilient and sustainable. living through the pandemic has been difficult for everyone and exposed many of the flaws we currently have in society. Looking back on my comic I think I was going in the right direction but could have done more with it and personally during the pandemic to live what I was preaching.
+Make cities and human settlements inclusive, safe, resilient and sustainable. living through the pandemic has been difficult for everyone and exposed many of the flaws we currently have in society. Looking back on my comic I think I was going in the right direction but could have done more with it and with my own actions during the pandemic to live what I was preaching.
 
 ![Cover and pg 1](/illustration/thingssuck/pg1-2.jpg)
 

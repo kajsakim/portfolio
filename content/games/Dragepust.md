@@ -18,7 +18,9 @@ Engine: Unreal
 
 Our clients were the creators of the Dragepust TTRPG. We were given a chapter from a campaign as inspiration, and were free to make a game based on their IP. I worked on level design, UI, and helped with early concept art for the graphics team to soundboard off of. I built the UI style from the graphics team's inspiration board together with some of my own influences to build upon the fantasy and nordic setting of the Dragepust world.
 
-The game is a short demo of a postion-making game, based on story and worldbuilding. you play an apprentice who must take over the potion shop, and through making potions and giving (or not giving) potions to customers, learn about the outside world and events that happen based on your decisions. A main feature of the game was the ingredients book, where players can learn about what the different ingredients are, what they do, and what kind of processing is needed, if any. 
+The game is a short demo of a potion-making game, based on story and worldbuilding. You play an Alchemist's apprentice who must take over the potion shop, and through making potions and giving (or not giving) potions to customers, learn about the outside world being affected by the spreading danger and disease "Dragepust", and events that happen based on your decisions. A main feature of the game was the ingredients book, where players can learn about what the different ingredients are, what they do, and what kind of processing is needed, if any.  
+I made the UI with the intention of enhancing the story-driven and fantasy setting of the game, inspired my illuminated scripts and folklore illustrations from artists like John Bauer and Ivan Bilibin.  
+The ingredient book pages were meant to look like the collected notes of the Alchemist, where the player must read and piece together what ingredients together might make the correct potion for customers.   
 
 ### UI
 

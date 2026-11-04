@@ -12,6 +12,7 @@ Private commission
 
 <!--more-->
 
-This is a watercolor painting I made as a private commission of a client's character. The painting is about 160mm tall and 90mm at its widest.
+This is a watercolor painting I made as a private commission of a client's character. The painting is about 160mm tall and 90mm at its widest.  
+I loosely planned out the pattern, and with careful layering built up the colors to give it depth.
 
 ![watercolor painting of a wolf character in a kimono](/illustration/kimono-nolink.jpg)
