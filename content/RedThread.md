@@ -12,7 +12,7 @@ On this page I have put together a selection of projects I think are relevant to
 
 ### Miksturselskapet
 
-Go to Miksturselskapet's [project page](/games/Dragepust)  
+Go to Miksturselskapet's [project page](/games/dragepust)  
 A 5-week group project, where I worked on level design and UI (Unreal).  
 You play an alchemist's apprentice being tasked with taking over the shop while she is away on a mission. Through your choices and potion-making skills, you can either help or hinder the townsfolk dealing with the consquences of the infectious Dragepust spreading throughout the world.  
 Using the backdrop of the TTRPG Dragepust's worldbuilding and our graphics team's visual inspiration for our game, I came up with a norse and folklore-inspired style for the UI, using illuminated scripts as a reference. The objects  and style used for the UI help reinforce the gameplay story driven potion making.  
